@@ -1,0 +1,59 @@
+# robots.txt for westtrailersales
+
+Sitemap: https://www.westtrailersales.com/sitemap.xml
+
+User-Agent: *
+Disallow: /cart/checkout/
+Crawl-delay: 10
+
+User-agent: bingbot
+Crawl-delay: 10
+
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: moget
+User-agent: ichiro
+Disallow: /
+
+User-agent: NaverBot
+User-agent: Yeti
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: AhrefsSiteAudit
+Disallow: /
+
+User-agent: GeedoBot
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
